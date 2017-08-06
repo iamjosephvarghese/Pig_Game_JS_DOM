@@ -6,3 +6,5 @@ In each turn, a player rolls a dice as many times as he whishes. Each result get
 BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn</br>
 The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn</br>
 The first player to reach 100 points on GLOBAL score wins the game</br>
+
+[Click Here to Play](https://tourist-23bb8.firebaseapp.com)
